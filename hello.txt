@@ -1,3 +1,1 @@
-blah blah blah
-
-This is Bailey creating a change in the document.
+I will now create a merge conflict. 
